@@ -1,4 +1,1 @@
--- my name is zellicious
--- i like cars
--- i like programming
--- i mainly use lua and roblox studio
+cool
